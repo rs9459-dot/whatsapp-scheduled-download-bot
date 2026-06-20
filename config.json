@@ -1,0 +1,14 @@
+{
+  "base_folder": "/Users/rheashastri/Desktop/CMD",
+  "projects": {
+    "Watrana Group": {
+      "keywords": ["watrana", "mis", "revenue", "ebitda", "cash flow", "working capital"],
+      "folders": {
+        "Financials": ["mis", "revenue", "ebitda", "cash flow", "financial", "working capital"],
+        "Legal": ["legal", "agreement", "contract", "case", "termination"],
+        "Presentations": ["presentation", "ppt", "deck", "investor"],
+        "General": []
+      }
+    }
+  }
+}
